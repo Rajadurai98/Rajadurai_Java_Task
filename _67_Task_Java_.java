@@ -11,10 +11,10 @@ public class _67_Task_Java_ {
 			num=num/10;
 		}
 		if(sum==temp) {
-			System.out.println("its is a anagram");
+			System.out.println("its is a Armstrong");
 		}
 		else {
-			System.out.println("not an anagram");
+			System.out.println("not an Armstrong");
 		}
 	}
 
